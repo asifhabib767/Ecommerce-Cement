@@ -1,0 +1,985 @@
+
+@media (max-width: 1024px) {
+    .productGrid {
+        width: 75%;
+        margin: 0 auto;
+    }
+    .singleBlog {
+        width: 75%;
+        margin: 0 auto;
+    }
+    .ourProductArea button.owl-prev { 
+        left: 0%; 
+    }
+    .ourProductArea button.owl-next { 
+        right: 0%; 
+    }
+}
+
+
+/* Small Devices, Tablets */
+@media (min-width : 768px) and (max-width: 991px) {
+    .productGrid {
+        width: 75%;
+        margin: 0 auto;
+    }
+    .singleBlog {
+        width: 70%;
+        margin: 0 auto;
+    }
+    .box {
+        margin-top: 30px;
+    }
+    .ourProductArea button.owl-prev { 
+        left: 0%; 
+    }
+    .ourProductArea button.owl-next { 
+        right: 0%; 
+    }
+    .newsEventArea button.owl-prev {
+         left: 0%; 
+    }
+    
+    .newsEventArea button.owl-next {
+        right: 0%; 
+    }
+    
+    .ourProductArea { 
+        height: auto; 
+        padding-bottom: 30px;
+    }
+    .tab-style-3 .tabs {
+        width: 95%;
+        margin: 10px;
+    }
+
+    .tab-style-3 .tab_content {
+        width: 100%;
+        float: right;
+        margin-top: 30px;
+    }
+    .videoDetails {
+         padding: 10px;
+     }
+     .tab-style-3 .tabs a{
+         text-align: left;
+     }
+     .brandActivityDetails {
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: rgba(255,255,255,.7);
+        width: 100%;
+        padding: 10px;
+        height: 100%;
+        border-radius: 20px;
+        margin-top: 0;
+    }
+    .brandActivityImg img {
+        border-radius: 20px;
+        width: 100%;
+    }
+    .ProductSinglebox {
+        margin: 36px 30px;
+
+    }
+    .quick-address h2 {
+        padding-top: 10px;
+    }
+    .quick-icon ul li a {
+        width: 97%;
+        padding-right: 241px;
+    }
+    .Ordertable {
+        padding: 44px 30px 0px 30px;
+    }
+    .orderBox {
+        margin: 33px 0px;
+    }
+    .ProductDetailsInfo h1 {
+        
+        padding-bottom:0px;
+    }
+        .ProductDetailsImg {
+            margin: 20px;
+        }
+        .ProductDetailsText {
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+        .productDetailsinput input {
+            top: 140px;
+        }
+        button.productBtn {
+            margin: 0px 0px 0px 38px;
+        }
+        h4.productprice::before {
+            width: 839%;
+        }
+        .ProductDetailsText {
+            padding-right: 50px;
+        }
+        button.productBtn.two {
+            margin-bottom: 40px;
+        }
+        .ProductSingleboxDetails {
+            width: 100%;
+        }
+        .ProductSingleboxDetails img {
+            height: auto;
+        }
+        .ProductDetailsInfo {
+            padding-top: 35px;
+        }
+        .ProductSingleboxDetails.one::before {
+            left: 618px;
+        }
+        .ProductSingleboxDetails.one.productImg::before{
+            left:678px;
+        }
+        .cuponsubmit::before {
+            top: 443px;
+          left: 533px;
+        }
+        .orderbox h1::before {
+            width: 69%;
+            left: 111px;
+        }
+        .orderbox {
+            width: 72%;
+            margin-left: 96px;
+            margin-bottom: 44px;
+        }
+        .orderProductText {
+            width: 64%;
+            padding-left: 40px;
+        }
+        .billborder::before {
+            width: 63%;
+            left: 132px;
+            top: 215px;
+        }
+        
+        .orderProduct h5 {
+            padding-top: 29px;
+            padding-left: 17px;
+        }
+        .orderProductText h5 {
+            padding-top: 43px;
+        }
+        .borderText h6 {
+            padding: 10px 73px 10px 60px;
+        }
+        .paymentmethod:before {
+            top: 256px;
+            width: 63%;
+            left: 132px;
+        }
+        .paymentmethod {
+            margin-top: 190px;
+        }
+        .paymentmethod::after {
+            top: 480px;
+            width: 62%;
+            left: 135px
+        }
+        .form-check.ordercheck {
+            margin-top: 19px;
+        }
+        button.productBtn.order {
+            padding: 0px 166px;
+        }
+        .billborder::after {
+            top: 445px;
+            width: 62%;
+            left: 137px;
+        }
+        .firstname.email {
+                margin-left: 16px;
+                width: 44%;
+            margin-right: 6px;
+        }
+        .OtpBox {
+            margin-left: 109px;
+            margin-top: 49px;
+            margin-bottom: 45px;
+            width: 548px;
+        }
+        .otpsubmit::before {
+            left: 400px;
+        }
+        .otpsubmit::after {
+            left: 400px;
+        }
+        .ProductSingleboxDetails.productImg {
+            width: 100%;
+            height: 100%;
+        }
+        .ProductDetailsText {
+            margin-top: 20px;
+        }
+        .ProductDetailsText {
+            margin-bottom: 0px;
+        }
+        .OrderDetails {
+            margin-bottom: 43px;
+        }
+        .ProductSinglebox {
+            width: 100%;
+            margin: 33px 30px 0px 30px;
+        }
+        button.productBtn {
+            margin: 13px 0px 34px 19px;
+        }
+        .ProductSinglebox {
+            margin: 33px 30px 30px 30px;
+        }
+        .ProductSinglebox.middle {
+            margin:4px 30px;
+        }
+        .ProductSinglebox.two {
+            margin: 33px 30px 36px 30px;
+        }
+        .firstname.mobile {
+            width: 289px;
+           
+        }
+        .sendotpBTn {
+            width: 77px;
+        }
+        button.productBtn.otobtn {
+            padding: 10px 198px;
+        }
+        .profilehomeImg img {
+            width: 70px;
+            margin-left: 0px;
+        }
+        .profilehome {
+            padding-top: 3px;
+        }
+        .profilehomeImg {
+            padding-left: 0px;
+          
+        }
+        .profilehome p {
+            padding-left: 0px;
+            padding-top: 5px;
+        }
+        .awardimg {
+        padding-left: 0px; 
+        }
+        .awardtext h6 {
+        padding-left: 30px;
+        }
+        .firstname.email.profile {
+            margin-left: 1px;
+            width: 49%;
+        }
+        button.profileBtn {
+            margin-bottom: 32px;
+        }
+        /* /* cart */
+    .cartsection {
+    margin: 30px;
+    width: 100%;
+    margin-left: 0px;
+} 
+.cartimg { 
+    margin-right: 5px;
+}
+.cartdetails {
+    width: 43%;
+  
+}
+.input-group.cartquantity {
+    left: 358px;
+    width: 18%;
+}
+.cartprice {
+    padding-left: 59px;
+}
+.cartprice:before {
+    left: 639px;
+}
+.cartprice:after {
+    left: 639px;
+}
+.cartsubprice h4 {
+    padding-left: 246px;
+}
+.cartsub {
+    padding-left: 12px;
+}
+button.productBtn.process.cancelbtn {
+    margin-left: -132px;
+}
+}
+
+
+/* Small Devices Potrait */
+@media (max-width : 767px){ 
+    .productGrid {
+        width: 75%;
+        margin: 0 auto;
+    }
+    .singleBlog {
+        width: 70%;
+        margin: 0 auto;
+    }
+    .box {
+        margin-top: 30px;
+    }
+    .ourProductArea button.owl-prev { 
+        left: 0%; 
+    }
+    .ourProductArea button.owl-next { 
+        right: 0%; 
+    }
+    .newsEventArea button.owl-prev {
+         left: 0%; 
+    }
+    
+    .newsEventArea button.owl-next {
+        right: 0%; 
+    }
+    
+    .ourProductArea { 
+        height: auto; 
+        padding-bottom: 30px;
+    }
+
+    .tab-style-3 .tabs {
+        width: 95%;
+        margin: 10px;
+    }
+
+    .tab-style-3 .tab_content {
+        width: 100%;
+        float: right;
+        margin-top: 30px;
+    }
+    .videoDetails {
+         padding: 10px;
+     }
+     .tab-style-3 .tabs a{
+        text-align: left;
+    }
+
+    .BrandSocial a i {
+        color: #000;
+        width: 40px;
+        height: 40px;
+        border: 1px solid #ccc;
+        text-align: center;
+        line-height: 35px;
+        border-radius: 100%;
+        margin: 0 0px;
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .Product_list {
+        width: 100%;
+        float: left;
+        margin-bottom: 20px;
+    }
+    .NutritionFac {
+        width: 100%;
+        float: right;
+        margin-bottom: 20px;
+    }
+    .brandActivityDetails {
+        width: 100%;
+        left: 0;
+        margin-top: 0;
+        height: 100%;
+    }
+  .brandActivityDetails {
+        width: 100%;
+        left: 0;
+        margin-top: 0;
+        height: 100%;
+    }
+    .brandActivityImg img {
+        border-radius: 20px;
+        width: 100%;
+    }
+
+    .brandActivityDetails p {
+        padding: 0px;
+        color: #000000;
+        font-size: 13px;
+        font-style: italic;
+        padding-top: 0;
+    }
+
+    .box {
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    .sinlgeFeatureBox {
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .buyNow {
+        position: relative;
+        top: 0;
+        z-index: 99999;
+    }
+    ul.navbar-nav.mr-auto {
+        margin-top: 20px;
+    }
+
+    form.search-form {
+        display: none;
+    }
+
+
+} 
+
+
+
+
+/* Extra Small Devices, Phones */ 
+@media (max-width : 479px) {
+ 
+    .OtpBox {
+        width: 405px;
+        margin-left: 10px;
+        margin-top: 30px;
+        margin-bottom: 35px;
+    }
+    .sendotpBTn {
+        width: 106px;
+    }
+    .firstname.mobile {
+        width: 200px;
+    }
+    .otptext::before {
+        left: 143px;
+        height: 36px;
+    }
+    button.productBtn.otobtn {
+        padding: 10px 161px;
+        margin-left: 0px;
+    }
+    .otptext span {
+        left: 152px;
+    }
+    .otpmobile span,.otpcuponcode span {
+        left: 152px;
+    }
+    form.otpFormdetails {
+        width: 193%;
+        margin-left: 3px;
+    }
+    .productDetailsinput input {
+        top: 168px;
+    }
+    .ProductSinglebox.two {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .otpsubmit::before {
+        left: 306px;
+        width: 83px;
+        font-size: 11px;
+        padding: 13px 18px;
+    }
+        .firstname.otptext input {
+            font-size: 12px;
+            padding: 10px 18px;
+        }
+    
+    .otpsubmit::after {
+        left: 306px;
+        width: 83px;
+        font-size: 11px;
+        padding: 13px 27px;
+        
+    }
+    .ProductSinglebox {
+        margin-top: 30px;
+        margin-bottom: 0px;
+        margin-left: 43px;
+    }
+    .ProductSinglebox {
+        margin-top: 30px;
+         margin-bottom: 0px;
+        
+    }
+    .quick-icon ul li a {
+        width: 94%;}
+        .single-widget--menu i {
+            margin-right: 3px;
+            margin-left: 0px;
+        }
+        .single-widget--menu {
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+        .social-link.sociallink {
+            margin-bottom: 20px;
+        }
+        .quick-icon ul li a {
+            padding-top: 11px;
+            padding-bottom: 15px;
+}
+        .quick-icon ul li:last-child i {
+            top: 13px;
+            margin-right: 7px;}
+        .single-widget--menu ul li a {
+            line-height: 1.7;}
+            .Ordertable {
+                padding: 30px 0px;
+            }
+            .orderBox {
+                margin: 0px 20px;
+            }
+            .orderBox p {
+                padding: 10px 20px 10px 23px;
+               
+            }
+            .PaymentInfo {
+            width:auto;
+            }
+            .ProductDetailsInfo h1 {
+                padding-bottom: 0px;
+            }
+            .ProductDetailsImg {
+                margin: 20px;
+                /* padding: 20px; */
+            }
+            .ProductDetailsText {
+                margin: 20px;
+                margin-bottom: 30px;
+            }
+            .ProductSingleboxDetails {
+                width: 100%;
+            }
+            .ProductSingleboxDetails.one::before {
+                left: 335px;
+            }
+            .ProductDetailsInfo {
+                padding-top: 30px;
+            }
+            button.productBtn.product {
+                margin: 16px 0px 0px 0px;
+               
+            }
+            .ProductSingleboxDetails.productImg {
+                width: 100%;
+                height: 100%;
+            }
+            .productDetailsinput input {
+                top: 167px;
+                width: 55%;
+             }
+             .ProductDetailsText {
+                margin-bottom: 0px!important;
+             }
+             .OrderDetails {
+                margin-bottom: 30px;
+            }
+            h4.productprice::before {
+                width: 454%;}
+            .ProductSingleboxDetails.productImg img {
+                padding: 7px 20px 20px 20px;
+            }
+           
+            .ProductDetailsText {
+                margin-bottom: 45px;
+                padding: 9px 0px;
+            }
+            .ProductSingleboxDetails.one::before {
+                left: 265px;
+            }
+            .firstname {
+                margin-bottom: 20px;
+                width: 90%;
+                margin-left: 0px;
+            }
+            .firstname.email {
+               margin-left: 2px;
+               width: 90%;
+                margin-right: 7px;
+            }
+            .firstname.cupon {
+                width: 95%;
+                margin-left: -10px;
+            }
+            .firstname.Recipient {
+                margin-left: -13px;
+                width: 98%;
+            }
+            .firstname.Address.note {
+                margin-left: 10px;
+                width: 82%;
+            }
+            .firstname.otptext.cuponText {
+                width: 81%;
+                margin-left: 13px;
+            }
+            .orderbox h1::before {
+                width: 80%;
+                left: 26px;
+            }
+            .orderProduct h5 {
+                padding-top: 31px;
+                padding-left: 29px;
+            }
+            .orderProductText h5 {
+                padding-top: 14px;
+                padding-left: 95px;
+            }
+            .billborder::before {
+                left: 52px;
+                top: 177px;
+                width: 75%;
+            }
+            .billborder::after {
+                top: 405px;
+                left: 53px;
+                width: 72%;
+            }
+            .paymentmethod::after {
+                top: 443px;
+                left: 53px;
+                width: 72%;
+            }
+            .form-check.ordercheck {
+                margin-left: 10px;
+                margin-top: 16px;
+            }
+            button.productBtn.order {
+                padding: 0px 60px;
+                margin-left: 31px;
+            }
+            .paymentmethod:before {
+                top: 217px;
+                left: 54px;
+                width: 75%;
+            }
+            .orderProductText h2{
+                font-size: 11px;
+            }
+            .orderProductText h4,p {
+                font-size: 11px;
+                padding: 6px 0px;
+            }
+            .paymentmethod {
+                margin-top: 154px;
+            }
+            .borderText h6 {
+                padding: 7px 20px 10px 34px;
+            }
+            .billingForm {
+                padding-top: 5px;
+            }
+            .orderbox {
+                margin-left: 26px;
+                margin-bottom: 30px;
+                margin-right: 26px;
+                height: 525px;
+            }
+            .cuponsubmit::before {
+                top: 641px;
+                left: 205px;
+                height: 26px;
+                width: 139px;
+            }
+            .profilehomeImg img {
+                width: 70px;
+                margin-left: 0px;
+            }
+            .profilehome {
+                padding-top: 3px;
+            }
+            .profilehomeImg {
+                padding-left: 0px;
+              
+            }
+            .profilehome p {
+                padding-left: 0px;
+                padding-top: 5px;
+            }
+            .awardimg {
+            padding-left: 0px; 
+            }
+            .awardtext h6 {
+            padding-left: 30px;
+            }
+            button.profileBtn {
+                margin-bottom: 32px;
+            }
+            .firstname.email.profile {
+                margin-left: 1px;
+                width: 99%
+            }
+            /* cart */
+.cartsection {
+    margin: 0px;
+    width: 100%;
+    margin-left: 0px;
+}
+.cartinner {
+  
+    padding: 0px;
+    margin-bottom: 30px;
+}
+.cartdetails {
+    float: left;
+    width: 100%;
+}
+.input-group.cartquantity {
+    position: absolute;
+    top: 296px;
+    left: 100px;
+    width: 42%;
+}
+.cartprice {
+    float: right;
+    padding-top: 59px;
+    width: 100%;
+    padding-bottom: 20px;
+}
+.cartprice h4 {
+    padding-left: 0px;
+}
+.input-group.cartquantity.two {
+    top: 556px;
+}
+.cartprice:before {
+    left: 210px;
+    top: 379px;
+}
+.cartprice::after {
+    left: 210px;
+    top: 633px;
+}
+.cartsubprice h4,.cartsub h4 { 
+    padding-left: 53px;
+}
+button.productBtn.process.cancelbtn { 
+    margin-left: -166px;
+}
+}
+@media (max-width : 400px) {
+.ProductBox {
+    margin-bottom: 9px;
+}
+.ProductSinglebox.middle {
+    margin: 10px 20px;
+}
+.firstname.Address.note {
+    margin-left: 40px;
+    width: 72%;
+}
+.billborder::after {
+    top: 380px;
+    left: 53px;
+    width: 72%;
+}
+.rwd-table td {
+   
+    padding: 14px 17px;
+}
+.paymentmethod::after {
+    top: 430px;
+    left: 53px;
+    width: 72%;
+}
+.form-check.ordercheck {
+   
+    margin-top: 13px;
+}
+h4.productprice::before {
+    width: 409%;}
+.cuponsubmit::before {
+    padding: 9px 18px;
+    top: 641px;
+    left: 221px;
+    height: 28px;
+    width: 89px;
+}
+button.productBtn.order {
+    padding: 0px 60px;
+    margin-left: 18px;
+}
+button.productBtn.otobtn {
+    padding: 10px 105px;
+    margin-left: 0px;
+}
+button.productBtn.sendbtn {
+    margin: 0px 0px 0px -123px;
+
+}
+.ProductSingleboxDetails.one::before {
+    left: 263px;
+}
+.productDetailsinput input {
+    width: 55%;
+}
+.productDetailsinput input {
+    top: 186px;
+}
+.OtpBox {
+    width: 302px;
+    margin-left: 37px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+.otpsubmit::before {
+    left: 207px;
+    width: 70px;
+    font-size: 10px;
+    padding: 13px 11px;
+}
+.ProductSinglebox {
+    margin: 20px;
+}
+.ProductSinglebox.two {
+    margin-top: 20px;
+}
+.otpsubmit::after {
+    left: 207px;
+    width: 70px;
+    font-size: 10px;
+    padding: 13px 23px;
+}
+.ProductSingleboxDetails img {
+    height: 200px;
+}
+.leftColl {
+    width: 78px;
+}
+.follow_us p {
+    font-size: 12px;}
+    .rightColl i {
+        padding-left: 0px;
+    }
+    .webmail_us {
+        padding-right: 0px;
+    }
+    .orderBox h2 {
+        font-size: 30px;
+        padding-bottom: 10px;
+    }
+    .PaymentInfo.two {
+        margin-bottom: 58px;
+    }
+    .orderBox h2 {
+        text-align: left;
+    }
+    .ProductDetailsInfo h1 {
+        font-size: 27px;
+    }
+    button.productBtn {
+        margin-bottom: 20px;
+    }
+    .firstname {
+        width: 92%;
+    }
+    .firstname.email {
+        width: 101%;
+    }
+    .firstname.cupon {
+        width: 100%;
+    }
+    .orderProductText h4 {
+        padding: 3px 0px;
+    }
+    .orderProductText {
+        margin-top: 10px;
+        padding-left: 16px;
+    }
+    .billingForm {
+        padding-top: 8px;
+        margin-left: 26px;
+    }
+    
+    .paymentmethod:before {
+    top: 201px;
+    width: 76%;
+    left: 46px;
+    }
+    .orderbox {
+        margin-left: 24px;
+        margin-bottom: 35px;
+        height: 501px;
+    }
+    
+    .orderProduct h5 {
+        padding-top: 24px;
+    }
+    .orderProductText h5 {
+        padding-top: 15px;
+    padding-left: 60px;
+    }
+    .paymethod div {
+        margin-left: 6px;
+    }
+    .billborder::before {
+        top: 165px;
+        width: 76%;
+        left: 45px;
+    }
+    .paymentmethod {
+        margin-top: 130px;
+    }
+
+form.paymentform {
+    padding-left: 0px;
+}
+.borderText h6 {
+    padding: 10px 19px 10px 17px;
+}
+/* cart */
+.cartsection {
+    margin: 0px;
+    width: 100%;
+    margin-left: 0px;
+}
+.cartinner {
+  
+    padding: 0px;
+    margin-bottom: 30px;
+}
+.cartdetails {
+    float: left;
+    width: 100%;
+}
+.input-group.cartquantity {
+    position: absolute;
+    top: 345px;
+    left: 100px;
+    width: 42%;
+}
+.cartprice {
+    float: right;
+    padding-top: 59px;
+    width: 100%;
+    padding-bottom: 20px;
+}
+.cartprice h4 {
+    padding-left: 0px;
+}
+.input-group.cartquantity.two {
+    top: 585px;
+}
+.cartprice:before {
+    left: 210px;
+    top: 416px;
+}
+.cartprice::after {
+    left: 210px;
+    top: 663px;
+}
+.cartsubprice h4,.cartsub h4 { 
+    padding-left: 53px;
+}
+button.productBtn.product.cartorder {
+    margin-left: 36px;
+}
+}

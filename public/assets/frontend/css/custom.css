@@ -1,0 +1,11 @@
+.register-style {
+    margin: 20px
+}
+
+.productDetailsinput input {
+    position: absolute;
+    left: 156px;
+    top: 132px;
+    width: 63%;
+    padding: 0px 15px;
+}
